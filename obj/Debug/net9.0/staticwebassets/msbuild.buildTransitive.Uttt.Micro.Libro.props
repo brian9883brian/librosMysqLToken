@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Uttt.Micro.Libro.props" />
+</Project>

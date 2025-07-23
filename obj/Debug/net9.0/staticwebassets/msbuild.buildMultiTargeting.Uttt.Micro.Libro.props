@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Uttt.Micro.Libro.props" />
+</Project>
