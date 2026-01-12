@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uttt.Micro.Libro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3ebb820a386e4f72ceb9982bbbd606c5a3a1687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e110042deb6f92dd347e607abfaafee28e1b3da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uttt.Micro.Libro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uttt.Micro.Libro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
